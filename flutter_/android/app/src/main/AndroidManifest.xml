@@ -39,7 +39,7 @@
             android:name="flutterEmbedding"
             android:value="2" />
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDIYGUrpmwnrQdksM1UVI1zc3P_F4i_6mA"/>
+               android:value="erkan"/>
 //(pubspec.yaml)
           google_maps_flutter: ^0.5.0
     </application>
